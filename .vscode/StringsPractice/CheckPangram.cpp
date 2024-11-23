@@ -17,6 +17,7 @@ bool CheckPangram(string &sentence) {
         // Non-alphabet characters (like spaces, punctuation) are ignored.
     }
 
+
     // Now check if all the alphabet letters (from 'a' to 'z') have been found.
     for (int i = 0; i < alpha.size(); i++) {
         if (alpha[i] == 0) {
