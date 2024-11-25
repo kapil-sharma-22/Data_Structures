@@ -46,4 +46,11 @@ int main() {
      anticlockwise = s1;
      RotateAntiClockWise(anticlockwise);
      RotateAntiClockWise(anticlockwise);
+
+     
+    //  if(anticlockwise == s2){
+    //     cout<<"Rotated by 2 places";
+    //  }
+
+     
 }
